@@ -20,6 +20,6 @@ build/
 
 # Editor/OS specific files
 .DS_Store # macOS specific
-.vscode/ # VS Code settings (optional, sometimes you want to share workspace settings)
+.vscode/ # VS Code settings
 *.swp # Vim swap files
 *.bak # Backup files
